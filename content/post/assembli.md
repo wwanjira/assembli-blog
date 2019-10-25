@@ -3,7 +3,7 @@ title = "Assembli"
 date = 2019-10-25T17:51:54+11:00
 tags = []
 description = "Can 100 images tell the stories of 50 million people? The ‘Demographica’ project aims to find out"
-featuredImage = "/post-images/assembli/assembli.jpg"
+featuredImage = "/post-images/assembli/p07p5rwn.jpg"
 draft = false
 +++
 
