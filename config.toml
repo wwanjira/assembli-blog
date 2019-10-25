@@ -1,0 +1,46 @@
+baseURL = "https://"
+languageCode = "en-UK"
+title = "assembli"
+description = "a Blog by assembli"
+config = "config.toml"
+tags = ["blog", "assembli", "SEO"]
+theme = "onepress"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = " "
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "your disqus shortname"
+copyright = "Copyright © 2019, Wilber Wanjira; all rights reserved."
+canonifyURLS = true
+paginate = 12
+
+[params]
+	author = "assembli"
+        bio = "assembli - africa."
+	logo = "/images/onepress-logo.png"
+	avatar = "/images/onepress-author.png"
+	opengraphImage = "/images/onepress-logo.jpg"
+	enableRSS = true
+
+	customCSS = false
+        readMore = "Read Up"
+
+    # Social
+	twitter  = "https://twitter.com/assembli-africa"
+	github   = "https://github.com/assembli-africa"
+	facebook  = ""
+        linkedin  = ""
+
+
+    # Widget
+    widgets = true
+
+    # Author box and Share button
+    authorCard = false
+    shareButton = true
+
+    # Code highlighting with highlight.js
+    highlightJS = true
+
+# Taxonomies
+[taxonomies]
+    tag = "tags"

@@ -1,0 +1,3 @@
+[submodule "onepress"]
+	path = onepress
+	url = https://github.com/ijsucceed/onepress.git
