@@ -1,11 +1,11 @@
-baseURL = "https://"
+baseURL = "http://localhost:1313"
 languageCode = "en-UK"
 title = "assembli"
 description = "a Blog by assembli"
 config = "config.toml"
 tags = ["blog", "assembli", "SEO"]
 theme = "onepress"
-# Enter your tracking code to enable Google Analytics
+# enable Google Analytics
 googleAnalytics = " "
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "your disqus shortname"
@@ -16,9 +16,9 @@ paginate = 12
 [params]
 	author = "assembli"
         bio = "assembli - africa."
-	logo = "/images/onepress-logo.png"
-	avatar = "/images/onepress-author.png"
-	opengraphImage = "/images/onepress-logo.jpg"
+	logo = "/images/logo.png"
+	avatar = "/images/author.png"
+	opengraphImage = "/images/logo.jpg"
 	enableRSS = true
 
 	customCSS = false
