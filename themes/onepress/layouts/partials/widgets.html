@@ -18,9 +18,13 @@
     </ul>
   </section>
 
-  <section class="widget widget-one">
-    <!-- add content here -->
-    <h2 class="widget-title"></h2>
+  <section itemscope itemtype="https://schema.org/Person" class="widget socials">
+    <h2 class="widget-title">Contact Us</h2>
+    <ul>
+        {{ if .Site.Params.email }}
+            <li><a href="{{ .Site.Params.email }}"><i class="fa fa-envelope-o"></i></a></li>
+        {{ end }}
+    </ul>
   </section>
 
 

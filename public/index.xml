@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-UK</language>
     <copyright>Copyright © 2019, Wilber Wanjira; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Oct 2019 17:51:54 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 23:29:33 +1100</lastBuildDate>
     
 	<atom:link href="https://reverent-kowalevski-b25581.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://reverent-kowalevski-b25581.netlify.com/about/</link>
+      <pubDate>Fri, 25 Oct 2019 23:29:33 +1100</pubDate>
+      
+      <guid>https://reverent-kowalevski-b25581.netlify.com/about/</guid>
+      <description>Assembli is written collaboratively by largely anonymous volunteers who write without pay. Anyone with Internet access can write and make changes to Assembli articles, except in limited cases where editing is restricted to prevent disruption or vandalism. Users can contribute anonymously, under a pseudonym, or, if they choose to, with their real identity. The fundamental principles by which Assembli operates are the five pillars. The Assembli community has developed many policies and guidelines to improve the encyclopedia; however, it is not a formal requirement to be familiar with them before contributing.</description>
+    </item>
     
     <item>
       <title>Assembli</title>

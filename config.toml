@@ -15,7 +15,7 @@ paginate = 12
 
 [params]
 	author = "Assembli"
-        bio = "a global movement whose mission is to bring free african educational content to the world to which anyone can contribute"
+  bio = "a global movement whose mission is to bring free african educational content to the world to which anyone can contribute"
 	logo = "/images/logo.png"
 	avatar = "/images/logo.png" #change to author.png (wwanjira)
 	opengraphImage = "/images/logo.jpg"
@@ -24,25 +24,27 @@ paginate = 12
 	customCSS = false
         readMore = "Read Up"
 
-    # Social
+  # Social
 	twitter  = "https://twitter.com/assembli-africa"
 	github   = ""
 	facebook  = "https://facebook.com/assembli-africa"
-        linkedin  = ""
+  linkedin  = ""
 
+  # Email
+	email = "mailto:t@assembli.africa"
 
-    # Widget
-    widgets = true
+  # Widget
+  widgets = true
 
-    # Author box and Share button
-    authorCard = true
-    shareButton = true
+  # Author box and Share button
+  authorCard = true
+  shareButton = true
 
-    # Code highlighting with highlight.js
-    highlightJS = true
+  # Code highlighting with highlight.js
+  highlightJS = true
 
-		#enable subscription
-		subscribeLink = true
+	#enable subscription
+	subscribeLink = true
 
 # Taxonomies
 [taxonomies]
