@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://reverent-kowalevski-b25581.netlify.com/"
 languageCode = "en-UK"
 title = "assembli"
 description = "a Blog by assembli"
