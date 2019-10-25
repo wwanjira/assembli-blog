@@ -2,11 +2,10 @@
 title = "Assembli"
 date = 2019-10-25T17:51:54+11:00
 tags = []
-description = ""
-featuredImage = ""
-draft = true
+description = "Can 100 images tell the stories of 50 million people? The ‘Demographica’ project aims to find out"
+featuredImage = "/post-images/assembli/assembli.jpg"
+draft = false
 +++
-<center><h1><i>Can 100 images tell the stories of 50 million people? The ‘Demographica’ project aims to find out.</i></h1></center>
 
 Africa’s population is growing, and quickly. According to the UN more than half of global population growth between now and 2050 will happen across the continent.
 

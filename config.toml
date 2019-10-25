@@ -14,10 +14,10 @@ canonifyURLS = true
 paginate = 12
 
 [params]
-	author = "assembli"
-        bio = "assembli - africa."
+	author = "Assembli"
+        bio = "a global movement whose mission is to bring free african educational content to the world to which anyone can contribute"
 	logo = "/images/logo.png"
-	avatar = "/images/author.png"
+	avatar = "/images/logo.png" #change to author.png (wwanjira)
 	opengraphImage = "/images/logo.jpg"
 	enableRSS = true
 
@@ -26,8 +26,8 @@ paginate = 12
 
     # Social
 	twitter  = "https://twitter.com/assembli-africa"
-	github   = "https://github.com/assembli-africa"
-	facebook  = ""
+	github   = ""
+	facebook  = "https://facebook.com/assembli-africa"
         linkedin  = ""
 
 
@@ -35,11 +35,14 @@ paginate = 12
     widgets = true
 
     # Author box and Share button
-    authorCard = false
+    authorCard = true
     shareButton = true
 
     # Code highlighting with highlight.js
     highlightJS = true
+
+		#enable subscription
+		subscribeLink = true
 
 # Taxonomies
 [taxonomies]
