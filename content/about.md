@@ -7,8 +7,46 @@ draft: false
 ![Assembli](/post-images/assembli/assembli.jpg)
 
 
-Assembli is written collaboratively by largely anonymous volunteers who write without pay. Anyone with Internet access can write and make changes to Assembli articles, except in limited cases where editing is restricted to prevent disruption or vandalism. Users can contribute anonymously, under a pseudonym, or, if they choose to, with their real identity. The fundamental principles by which Assembli operates are the five pillars. The Assembli community has developed many policies and guidelines to improve the encyclopedia; however, it is not a formal requirement to be familiar with them before contributing.
+We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that go as far back as possible.
 
-Since its creation on January 00, 0000, Assembli has grown rapidly into one of the largest reference websites, attracting 374 million unique visitors monthly as of September 2015.[1] There are about 72,000 active contributors working on more than 48,000,000 articles in 302 languages. As of today, there are 5,957,940 articles in English. Every day, hundreds of thousands of visitors from around the world collectively make tens of thousands of edits and create thousands of new articles to augment the knowledge held by the Assembli encyclopedia. (See the statistics page for more information.) People of all ages, cultures and backgrounds can add or edit article prose, references, images and other media here. What is contributed is more important than the expertise or qualifications of the contributor. What will remain depends upon whether the content is free of copyright restrictions and contentious material about living people, and whether it fits within Assembli's policies, including being verifiable against a published reliable source, thereby excluding editors' opinions and beliefs and unreviewed research. Contributions cannot damage Assembli because the software allows easy reversal of mistakes and many experienced editors are watching to help ensure that edits are cumulative improvements. Begin by simply clicking the Edit link at the top of any editable page!
 
-Assembli is a live collaboration differing from paper-based reference sources in important ways. Unlike printed encyclopedias, Assembli is continually created and updated, with articles on historic events appearing within minutes, rather than months or years. Because everybody can help improve it, Assembli has become more comprehensive than any other encyclopedia. In addition to quantity, its contributors work on improving quality as well. Assembli is a work-in-progress, with articles in various stages of completion. As articles develop, they tend to become more comprehensive and balanced. Quality also improves over time as misinformation and other errors are removed or repaired. However, because anyone can click "edit" at any time and add content, any article may contain undetected misinformation, errors, or vandalism. Awareness of this helps the reader to obtain valid information, avoid recently added misinformation (see Assembli:Researching with Assembli), and fix the article.
+<!--<div class="simple-subscription-form">
+  <form>
+    <h4>Subscribe</h4>
+    <p>If you'd like to be notified  when we go live, simply enter your email below :</p>
+    <div class="input-group">
+      <span class="input-group-label">
+        <i class="fa fa-envelope"></i>
+      </span>
+      <input class="input-group-field" type="email" placeholder="Email" required>
+      <button class="button">Sign up now</button>
+    </div>  
+  </form>
+</div> -->
+
+
+<div class="masthead simple-subscription-form">
+  <div class="container h-100">
+  <div class="intro">
+      <h2 class="text-center">Subscribe</h2>
+      <p class="text-center">If you'd like to be notified  when we go live, simply enter your email below </p>
+  </div>
+    <div class="row h-100">
+      <div class="col-12 my-auto">
+        <div class="masthead-content text-white py-5 py-md-0">
+          <form method="post">
+            <div class="input-group input-group-newsletter">
+                <input type="email" class="form-control" placeholder="Your Email" aria-label="Your Email" aria-describedby="basic-addon">
+                <div class="input-group-append">
+                  <button class="btn btn-secondary" type="submit">Notify Me!</button>
+                </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>  
+</div>
+<br>
+
+If you would like to join this, drop us a line here[contact sheet]

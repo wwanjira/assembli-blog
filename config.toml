@@ -21,8 +21,8 @@ paginate = 12
 	opengraphImage = "/images/logo.jpg"
 	enableRSS = true
 
-	customCSS = false
-        readMore = "Read Up"
+	customCSS = true
+  readMore = "Read Up"
 
   # Social
 	twitter  = "https://twitter.com/assembli-africa"
