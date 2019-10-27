@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Success on assembli</title>
+    <link>https://about.assembli.africa/success/</link>
+    <description>Recent content in Success on assembli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <copyright>Copyright © 2019, Wilber Wanjira; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 27 Oct 2019 21:49:47 +1100</lastBuildDate>
+    
+	<atom:link href="https://about.assembli.africa/success/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
