@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on assembli</title>
-    <link>https://reverent-kowalevski-b25581.netlify.com/</link>
-    <description>Recent content in About on assembli</description>
+    <title>Posts on assembli</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on assembli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-UK</language>
     <copyright>Copyright © 2019, Wilber Wanjira; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Oct 2019 23:29:33 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 17:51:54 +1100</lastBuildDate>
     
-	<atom:link href="https://reverent-kowalevski-b25581.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assembli</title>
-      <link>https://reverent-kowalevski-b25581.netlify.com/post/assembli/</link>
+      <link>http://localhost:1313/post/assembli/</link>
       <pubDate>Fri, 25 Oct 2019 17:51:54 +1100</pubDate>
       
-      <guid>https://reverent-kowalevski-b25581.netlify.com/post/assembli/</guid>
+      <guid>http://localhost:1313/post/assembli/</guid>
       <description>Africa’s population is growing, and quickly. According to the UN more than half of global population growth between now and 2050 will happen across the continent.
 Kenya is a big part of this equation: the country now has nearly 50 million people, and its population is predicted to about double by 2050. And, unlike many of its global counterparts whose populations are rapidly ageing, Kenya’s population is one of the youngest.</description>
     </item>

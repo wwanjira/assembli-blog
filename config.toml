@@ -15,7 +15,7 @@ paginate = 12
 
 [params]
 	author = "Assembli"
-  bio = "a global movement whose mission is to bring free african educational content to the world to which anyone can contribute"
+  bio = "We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that go as far back as possible."
 	logo = "/images/logo.png"
 	avatar = "/images/logo.png" #change to author.png (wwanjira)
 	opengraphImage = "/images/logo.jpg"
@@ -25,9 +25,9 @@ paginate = 12
   readMore = "Read Up"
 
   # Social
-	twitter  = "https://twitter.com/assembli-africa"
+	twitter  = "https://twitter.com/assembliafrica"
 	github   = ""
-	facebook  = "https://facebook.com/assembli-africa"
+	facebook  = "https://www.facebook.com/assembliafrica/"
   linkedin  = ""
 
   # Email
