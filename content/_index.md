@@ -4,7 +4,7 @@ date: 2019-10-25T23:29:33+11:00
 draft: false
 ---
 
-<!--![Assembli](/post-images/assembli/assembli.jpg)-->
+![Assembli](/post-images/assembli/assembli.jpg)
 
 
 We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that go as far back as possible.
