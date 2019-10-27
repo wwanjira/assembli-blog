@@ -2,6 +2,6 @@
     <li class="active"><a href='{{ .Site.BaseURL }}'>About</a></li>
     <!--<li><a href='/post'>Articles</a></li>-->
     {{ if .Site.Params.subscribeLink }}
-        <a class="cta" href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}Subscribe{{ end }}</a>
+        <a class="cta" href="{{ .Site.RSSLink }}" target="_blank">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}Subscribe{{ end }}</a>
     {{ end }}
 </ul>
