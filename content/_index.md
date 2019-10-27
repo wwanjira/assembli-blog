@@ -24,7 +24,7 @@ We are working to map African knowledge. We hope to build a one stop destination
                 <div class="input-group-prepend">
                   <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
                 </div>
-                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true" id="email">
+                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true" name="email">
                 <div class="input-group-append">
                   <button class="btn btn-primary" type="submit">Notify Me!</button>
                 </div>
@@ -49,7 +49,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 	  <div class="mb-3">
 	    <label for="name">Name</label>
 	    <div class="input-group">
-	      <input type="text" class="form-control" id="name" placeholder="name" required="true">
+	      <input type="text" class="form-control" name="name" placeholder="name" required="true">
 	      <div class="invalid-feedback" style="width: 100%;">
 	        Your name is required.
 	      </div>
@@ -61,7 +61,7 @@ We are working to map African knowledge. We hope to build a one stop destination
         <div class="input-group-prepend">
           <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
         </div>
-	      <input type="email" class="form-control" id="email" placeholder="you@example.com" required="true">
+	      <input type="email" class="form-control" name="email" placeholder="you@example.com" required="true">
   	    <div class="invalid-feedback">
   	      Please enter a valid email address.
   	    </div>
@@ -69,7 +69,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 	  </div>
 	  <div class="mb-3">
       <label for="message">Message </span></label>
-	    <textarea class="form-control" aria-label="message" placeholder="message" id="message"></textarea>
+	    <textarea class="form-control" aria-label="message" placeholder="message" name="message"></textarea>
 	  </div>
 	  <button class="btn btn-primary" type="submit">Submit</button>
 	</form>
