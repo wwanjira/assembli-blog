@@ -13,7 +13,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 <div class="masthead">
   <div class="container h-100">
   <div class="intro">
-      <p class="text-center">Enter your email if you'd like to be notified when we go live</p>
+      <p class="text-center">Notify me when you go live.</p>
   </div>
     <div class="row h-100">
       <div class="col-12 my-auto">
