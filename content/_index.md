@@ -13,8 +13,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 <div class="masthead">
   <div class="container h-100">
   <div class="intro">
-      <h2 class="text-center">Subscribe</h2>
-      <p class="text-center">If you'd like to be notified  when we go live, simply enter your email below </p>
+      <p class="text-center">Enter your email if you'd like to be notified when we go live</p>
   </div>
     <div class="row h-100">
       <div class="col-12 my-auto">
@@ -26,7 +25,7 @@ We are working to map African knowledge. We hope to build a one stop destination
                 </div>
                 <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true" name="email">
                 <div class="input-group-append">
-                  <button class="btn btn-primary" type="submit">Notify Me!</button>
+                  <button class="btn btn-primary" type="submit">Notify Me</button>
                 </div>
             </div>
           </form>
