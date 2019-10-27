@@ -19,9 +19,12 @@ We are working to map African knowledge. We hope to build a one stop destination
     <div class="row h-100">
       <div class="col-12 my-auto">
         <div class="masthead-content text-white py-5 py-md-0">
-          <form method="post">
+          <form name="subscribe" method="post" class="needs-validation" data-netlify="true">
             <div class="input-group input-group-newsletter">
-                <input type="email" class="form-control" placeholder="Your Email" aria-label="Your Email" aria-describedby="basic-addon">
+                <div class="input-group-prepend">
+                  <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                </div>
+                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true">
                 <div class="input-group-append">
                   <button class="btn btn-primary" type="submit">Notify Me!</button>
                 </div>
@@ -42,7 +45,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 </div>
 
 <div class="order-md-1">
-	<form method="post" class="needs-validation">
+	<form name="join" method="post" class="needs-validation" data-netlify="true">
 	  <div class="mb-3">
 	    <label for="name">Name</label>
 	    <div class="input-group">
@@ -53,12 +56,12 @@ We are working to map African knowledge. We hope to build a one stop destination
 	    </div>
 	  </div>
 	  <div class="mb-3">
-	    <label for="email">Email <span class="text-muted">(Optional)</span></label>
+	    <label for="email">Email</label>
       <div class="input-group">
         <div class="input-group-prepend">
           <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
         </div>
-	      <input type="email" class="form-control" id="email" placeholder="you@example.com">
+	      <input type="email" class="form-control" id="email" placeholder="you@example.com" required="true">
   	    <div class="invalid-feedback">
   	      Please enter a valid email address.
   	    </div>
