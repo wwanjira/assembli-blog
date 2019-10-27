@@ -7,8 +7,8 @@ draft: false
 <!--![Assembli](/post-images/assembli/assembli.jpg)-->
 
 
-We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that goes as far back as possible.
-
+<p class="text-center">We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that goes as far back as possible.</p>
+<hr class="mb-4">
 
 <div class="masthead">
   <div class="container h-100">
@@ -17,7 +17,7 @@ We are working to map African knowledge. We hope to build a one stop destination
   </div>
     <div class="row h-100">
       <div class="col-12 my-auto">
-        <div class="masthead-content text-white py-5 py-md-0">
+        <div class="masthead-content text-white py-md-0">
           <form name="subscribe" method="POST" class="needs-validation" data-netlify="true">
             <div class="input-group input-group-newsletter">
                 <div class="input-group-prepend">
