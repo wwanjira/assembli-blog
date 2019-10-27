@@ -103,9 +103,12 @@
     <div class="row h-100">
       <div class="col-12 my-auto">
         <div class="masthead-content text-white py-5 py-md-0">
-          <form method="post">
+          <form name="subscribe" method="POST" class="needs-validation" data-netlify="true">
             <div class="input-group input-group-newsletter">
-                <input type="email" class="form-control" placeholder="Your Email" aria-label="Your Email" aria-describedby="basic-addon">
+                <div class="input-group-prepend">
+                  <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                </div>
+                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true" name="email">
                 <div class="input-group-append">
                   <button class="btn btn-primary" type="submit">Notify Me!</button>
                 </div>
@@ -126,23 +129,23 @@
 </div>
 
 <div class="order-md-1">
-    <form method="post" class="needs-validation">
+    <form name="join" method="POST" class="needs-validation" data-netlify="true">
       <div class="mb-3">
         <label for="name">Name</label>
         <div class="input-group">
-          <input type="text" class="form-control" id="name" placeholder="name" required="true">
+          <input type="text" class="form-control" name="name" placeholder="name" required="true">
           <div class="invalid-feedback" style="width: 100%;">
             Your name is required.
           </div>
         </div>
       </div>
       <div class="mb-3">
-        <label for="email">Email <span class="text-muted">(Optional)</span></label>
+        <label for="email">Email</label>
       <div class="input-group">
         <div class="input-group-prepend">
           <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
         </div>
-          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <input type="email" class="form-control" name="email" placeholder="you@example.com" required="true">
         <div class="invalid-feedback">
           Please enter a valid email address.
         </div>
@@ -150,7 +153,7 @@
       </div>
       <div class="mb-3">
       <label for="message">Message </span></label>
-        <textarea class="form-control" aria-label="message" placeholder="message"></textarea>
+        <textarea class="form-control" aria-label="message" placeholder="message" name="message"></textarea>
       </div>
       <button class="btn btn-primary" type="submit">Submit</button>
     </form>
