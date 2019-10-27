@@ -4,16 +4,16 @@ date: 2019-10-25T23:29:33+11:00
 draft: false
 ---
 
-![Assembli](/post-images/assembli/assembli.jpg)
+<!--![Assembli](/post-images/assembli/assembli.jpg)-->
 
 
-We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that go as far back as possible.
+We are working to map African knowledge. We hope to build a one stop destination for crowdsourced, accurate and objective information about the continent and its cultures that goes as far back as possible.
 
 
 <div class="masthead">
   <div class="container h-100">
   <div class="intro">
-      <p class="text-center">Notify me when you go live.</p>
+      <b><p class="text-center">Notify me when you go live.</p></b>
   </div>
     <div class="row h-100">
       <div class="col-12 my-auto">
