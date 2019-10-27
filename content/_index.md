@@ -19,12 +19,12 @@ We are working to map African knowledge. We hope to build a one stop destination
     <div class="row h-100">
       <div class="col-12 my-auto">
         <div class="masthead-content text-white py-5 py-md-0">
-          <form name="subscribe" method="post" class="needs-validation" data-netlify="true">
+          <form name="subscribe" method="POST" class="needs-validation" data-netlify="true">
             <div class="input-group input-group-newsletter">
                 <div class="input-group-prepend">
                   <span class="input-group-text"><i class="fa fa-envelope" aria-hidden="true"></i></span>
                 </div>
-                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true">
+                <input type="email" class="form-control" placeholder="you@example.com" aria-label="you@example.com" required="true" id="email">
                 <div class="input-group-append">
                   <button class="btn btn-primary" type="submit">Notify Me!</button>
                 </div>
@@ -45,7 +45,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 </div>
 
 <div class="order-md-1">
-	<form name="join" method="post" class="needs-validation" data-netlify="true">
+	<form name="join" method="POST" class="needs-validation" data-netlify="true">
 	  <div class="mb-3">
 	    <label for="name">Name</label>
 	    <div class="input-group">
@@ -69,7 +69,7 @@ We are working to map African knowledge. We hope to build a one stop destination
 	  </div>
 	  <div class="mb-3">
       <label for="message">Message </span></label>
-	    <textarea class="form-control" aria-label="message" placeholder="message"></textarea>
+	    <textarea class="form-control" aria-label="message" placeholder="message" id="message"></textarea>
 	  </div>
 	  <button class="btn btn-primary" type="submit">Submit</button>
 	</form>
