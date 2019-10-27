@@ -34,7 +34,7 @@ paginate = 12
 	email = "mailto:t@assembli.africa"
 
   # Widget
-  widgets = true
+  widgets = false
 
   # Author box and Share button
   authorCard = true
