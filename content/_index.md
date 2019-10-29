@@ -27,6 +27,7 @@ draft: false
                 <div class="input-group-append">
                   <button class="btn btn-primary" type="submit">Notify Me</button>
                 </div>
+                <input type="hidden" name="subject" value="About: Subscribe">
             </div>
           </form>
         </div>
@@ -71,5 +72,6 @@ draft: false
 	    <textarea class="form-control" aria-label="message" placeholder="message" name="message"></textarea>
 	  </div>
 	  <button class="btn btn-primary" type="submit">Submit</button>
+    <input type="hidden" name="subject" value="About: Join">
 	</form>
 </div>
